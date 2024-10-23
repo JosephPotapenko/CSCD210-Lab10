@@ -1,0 +1,214 @@
+ 
+  ----jGRASP exec: java cscd210lab9.CSCD210Lab9
+ Please enter the ammount of fish you plan to catalog: 2
+ Please enter the fish family: Bass
+ Please enter the fish species: SmallMouth
+ Please enter the fish weight: 12
+ Please enter the fish tagID: 12
+ Please enter the fish family: Bass
+ Please enter the fish species: SmallMouth
+ Please enter the fish weight: 12
+ Please enter the fish tagID: 12
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 2
+ Please enter the fish family: Bass
+ Please enter the fish species: LargeMouth
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 123
+ LargeMouth Bass - 123 - 123.0
+ SmallMouth Bass - 12 - 12.0
+ SmallMouth Bass - 12 - 12.0
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 2 0
+ Please enter a number between 0 and 2 1
+ The two fish are not equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 2 0
+ Please enter a number between 0 and 2 2
+ The two fish are not equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab9.CSCD210Lab9
+ Please enter the ammount of fish you plan to catalog: 3
+ Please enter the fish family: Trout
+ Please enter the fish species: River
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 1234
+ Please enter the fish family: Trout
+ Please enter the fish species: Rainbow
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 1234
+ Please enter the fish family: Bass
+ Please enter the fish species: SmallMouth
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 123
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 2
+ Please enter the fish family: Bass
+ Please enter the fish species: SmallMouth
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 123
+ SmallMouth Bass - 123 - 123.0
+ SmallMouth Bass - 123 - 123.0
+ Rainbow Trout - 1234 - 123.0
+ River Trout - 1234 - 123.0
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 3 0
+ Please enter a number between 0 and 3 1
+ The two fish are equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 3 0
+ Please enter a number between 0 and 3 2
+ The two fish are not equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 3 2
+ Please enter a number between 0 and 3 3
+ The two fish are not equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab9.CSCD210Lab9
+ Please enter the ammount of fish you plan to catalog: 1
+ Please enter the fish family: Smelt
+ Please enter the fish species: Pond
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 123
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 2
+ Please enter the fish family: Smelt
+ Please enter the fish species: Pond
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 123
+ Pond Smelt - 123 - 123.0
+ Pond Smelt - 123 - 123.0
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 1 0
+ Please enter a number between 0 and 1 1
+ The two fish are equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab9.CSCD210Lab9
+ Please enter the ammount of fish you plan to catalog: 2
+ Please enter the fish family: Bass
+ Please enter the fish species: River
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 1234
+ Please enter the fish family: Bass
+ Please enter the fish species: River
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 1234
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 2
+ Please enter the fish family: Bass
+ Please enter the fish species: River
+ Please enter the fish weight: 123
+ Please enter the fish tagID: 1234
+ River Bass - 1234 - 123.0
+ River Bass - 1234 - 123.0
+ River Bass - 1234 - 123.0
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 2 0
+ Please enter a number between 0 and 2 1
+ The two fish are equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 2 0
+ Please enter a number between 0 and 2 2
+ The two fish are equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 3
+ Please enter a number between 0 and 2 1
+ Please enter a number between 0 and 2 2
+ The two fish are equal
+ Please choose from the following:
+ 1) Print the array to the screen
+ 2) Add Fish to the array
+ 3) Read and index and check for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 

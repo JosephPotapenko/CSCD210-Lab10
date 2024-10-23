@@ -1,0 +1,244 @@
+ 
+  ----jGRASP exec: java cscd210lab10.CSCD210Lab10
+ Enter the number of authors: 4
+ Please enter last name: Steiner
+ Please enter first name: Stu
+ Please enter the publisher: Wiley
+ Please enter the number of books: 3
+ Please enter last name: Steiner
+ Please enter first name: Stu
+ Please enter the publisher: Pearson
+ Please enter the number of books: 5
+ Please enter last name: Steiner
+ Please enter first name: Stu
+ Please enter the publisher: Cengage
+ Please enter the number of books: 5
+ Please enter last name: Steiner
+ Please enter first name: Daniel
+ Please enter the publisher: Cengage
+ Please enter the number of books: 5
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Daniel Steiner - Cengage - 5, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 2
+ Please enter first name: Daniel
+ Please enter last name: Steiner
+ Please enter the publisher: Wiley
+ Please enter the number of books: 4
+ [Daniel Steiner - Cengage - 5, Daniel Steiner - Wiley - 4, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 3
+ Please enter first name: Daniel
+ Please enter last name: Steiner
+ Please enter the publisher: Cengage
+ Please enter the number of books: 5
+ [Daniel Steiner - Wiley - 4, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Daniel Steiner - Wiley - 4, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 5
+ Ending
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab10.CSCD210Lab10
+ Enter the number of authors: -1
+ Enter the number of authors: -5
+ Enter the number of authors: 0
+ Enter the number of authors: 1
+ Please enter last name: Kirsch
+ Please enter first name: Linda
+ Please enter the publisher: Pearson
+ Please enter the number of books: 2
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 2
+ Please enter first name: Kirsch
+ Please enter last name: Linda
+ Please enter the publisher: Cengage
+ Please enter the number of books: 1
+ [Linda Kirsch - Pearson - 2, Kirsch Linda - Cengage - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 3
+ Please enter first name: Kirsch
+ Please enter last name: Linda
+ Please enter the publisher: Cengage
+ Please enter the number of books: 1
+ [Linda Kirsch - Pearson - 2, Linda Kirsch - Pearson - 2]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Linda Kirsch - Pearson - 2, Linda Kirsch - Pearson - 2]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 5
+ Ending
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab10.CSCD210Lab10
+ Enter the number of authors: -1
+ Enter the number of authors: 0
+ Enter the number of authors: 1
+ Please enter last name: Mie
+ Please enter first name: Lainey
+ Please enter the publisher: Pearson
+ Please enter the number of books: 1
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 3
+ Please enter first name: Mie
+ Please enter last name: Lainey
+ Please enter the publisher: Pearson
+ Please enter the number of books: 1
+ Item not found in the array
+ [Lainey Mie - Pearson - 1, Lainey Mie - Pearson - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Lainey Mie - Pearson - 1, Lainey Mie - Pearson - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 5
+ Ending
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java cscd210lab10.CSCD210Lab10
+ Enter the number of authors: 2
+ Please enter last name: Ron
+ Please enter first name: Paul
+ Please enter the publisher: Pearson
+ Please enter the number of books: 1
+ Please enter last name: Lemelin
+ Please enter first name: ROb
+ Please enter the publisher: Cengage
+ Please enter the number of books: 2
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 2
+ Please enter first name: Lemelin
+ Please enter last name: Rob
+ Please enter the publisher: Cengage
+ Please enter the number of books: 2
+ [ROb Lemelin - Cengage - 2, Lemelin Rob - Cengage - 2, Paul Ron - Pearson - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 3
+ Please enter first name: Rob
+ Please enter last name: Lemelin
+ Please enter the publisher: Cengage
+ Please enter the number of books: 2
+ Item not found in the array
+ [ROb Lemelin - Cengage - 2, Lemelin Rob - Cengage - 2, Paul Ron - Pearson - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [ROb Lemelin - Cengage - 2, Lemelin Rob - Cengage - 2, Paul Ron - Pearson - 1]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 5
+ Ending
+ 
+  ----jGRASP: operation complete.
+ 

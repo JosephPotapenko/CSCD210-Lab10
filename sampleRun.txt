@@ -1,0 +1,77 @@
+ 
+  ----jGRASP exec: java cscd210lab10.CSCD210Lab10
+ How many authors 4
+ Please enter a last name Steiner
+ Please enter a first name Stu
+ Please enter a publisher name Wiley
+ Please enter total number of books 3
+ Please enter a last name Steiner
+ Please enter a first name Stu
+ Please enter a publisher name Pearson
+ Please enter total number of books 5
+ Please enter a last name Steiner
+ Please enter a first name Stu
+ Please enter a publisher name Cengage
+ Please enter total number of books 5
+ Please enter a last name Steiner
+ Please enter a first name Daniel
+ Please enter a publisher name Cengage
+ Please enter total number of books 5
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Daniel Steiner - Cengage - 5, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 2
+ Please enter the authors first name Daniel
+ Please enter the authors last name Steiner
+ Please enter the publisher Wiley
+ Please enter the number of books 4
+ [Daniel Steiner - Cengage - 5, Daniel Steiner - Wiley - 4, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 3
+ Please enter the authors first name Daniel
+ Please enter the authors last name Steiner
+ Please enter the publisher Cengage
+ Please enter the number of books 5
+ [Daniel Steiner - Wiley - 4, Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 4
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 1
+ [Stu Steiner - Cengage - 5, Stu Steiner - Pearson - 5, Daniel Steiner - Wiley - 4, Stu Steiner - Wiley - 3]
+ Please choose from the following
+ 1) Print the Array to the Screen
+ 2) Add an item into the Array
+ 3) Delete an item from the Array
+ 4) Total Order based on reverse book and not reverse publisher
+ 5) Quit
+ Choice --> 5
+ Ending
+ 
+  ----jGRASP: operation complete.
+ 
