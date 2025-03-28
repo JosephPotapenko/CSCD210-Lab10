@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Author List Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 20px auto;
+            text-align: center;
+        }
+        input, button, select {
+            margin: 5px;
+            padding: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .remove-btn {
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Author List Manager</h2>
+
+    <input type="text" id="authorName" placeholder="Author Name">
+    <input type="text" id="publisher" placeholder="Publisher">
+    <input type="number" id="bookCount" placeholder="Number of Books">
+    <button onclick="addAuthor()">Add Author</button>
+
+    <br><br>
+
+    <label for="sortOption">Sort By:</label>
+    <select id="sortOption" onchange="sortAuthors()">
+        <option value="name">Name</option>
+        <option value="publisher">Publisher</option>
+        <option value="books">Number of Books</option>
+    </select>
+
+    <button onclick="downloadList()">Download List</button>
+
+    <br><br>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Publisher</th>
+                <th>Books</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody id="authorTable"></tbody>
+    </table>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
